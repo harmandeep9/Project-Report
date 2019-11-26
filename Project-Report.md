@@ -1,7 +1,7 @@
 ![College Logo](https://www.gndec.ac.in/logo.png)
 
 # **PROGRAMMING FOR PROGRAM SOLVING ESC-18105**
-## **NAME - *HARMANDEEP KAUR*
+## **NAME - HARMANDEEP KAUR**
 ## **ROLL NO - 19141049**
 ## **SECTION - CE(A2)**
 ----------------------------------------------
